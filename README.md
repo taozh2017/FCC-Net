@@ -1,8 +1,8 @@
-# A New Benchmark and Frequency-enhanced Contextual Conversion Network for Esophageal Lesion Segmentation
+# Frequency-enhanced Contextual Conversion Network for Esophageal Lesion Segmentation
 
 ## 1. Preface
 
-- This repository provides code for "_**A New Benchmark and Frequency-enhanced Contextual Conversion Network for Esophageal Lesion Segmentation**_" 
+- This repository provides code for "_**Frequency-enhanced Contextual Conversion Network for Esophageal Lesion Segmentation**_" 
 
 
 ## 2. Overview
