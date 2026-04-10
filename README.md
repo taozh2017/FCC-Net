@@ -19,3 +19,26 @@ Esophageal cancer (EC) is a prevalent disease with a high fatality rate, making 
     Figure 1: Illustrations of some examples from NBI and WLI datasets with a diversity of challenging factors, such as varying sizes, irregular shapes, and blurred edges (red or green circled area), and some benign changes similar to the appearance of esophageal cancer (blue circled areas).
     </em>
 </p>
+
+## 3.Training and Inference
+Train
+```
+python MyTrain_val.py 
+```
+
+Test
+```
+python MyTesting.py 
+```
+
+## 4. Citation
+```
+@article{tang2025frequency,
+  title={Frequency-enhanced contextual conversion network for esophageal lesion segmentation},
+  author={Tang, Ziqi and Niu, Xiaotong and Rong, Long and Zhang, Yizhe and Bi, Yawei and Ru, Nan and Li, Longsong and Chai, Ningli and Zhou, Tao},
+  journal={Pattern Recognition},
+  pages={112235},
+  year={2025},
+  publisher={Elsevier}
+}
+```
